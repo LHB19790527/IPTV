@@ -6,14 +6,10 @@
 电影,http://222.243.24.128:9901/tsfile/live/0006_1.m3u8?key_8==D
 湖南娱乐,http://222.243.24.128:9901/tsfile/live/0007_1.m3u8?key_8==D
 金鹰纪实,http://222.243.24.128:9901/tsfile/live/0008_1.m3u8?key_8==D
-金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 爱晚,http://222.243.24.128:9901/tsfile/live/0009_1.m3u8?key_8==D
 国际频道,http://222.243.24.128:9901/tsfile/live/0010_1.m3u8?key_8==D
 金鹰卡通,http://222.243.24.128:9901/tsfile/live/0011_1.m3u8?key_8==D
-金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 茶频道,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/1.m3u8
-茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-快乐垂钓,http://222.243.24.128:9901/tsfile/live/1018_1.m3u8?key_8==D
 快乐垂钓,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001235/1.m3u8
 湖南教育台,http://222.243.24.128:9901/tsfile/live/0012_1.m3u8?key_8==D
 央视,#genre#
