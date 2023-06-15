@@ -202,7 +202,10 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 4K超高清电影,http://r.jdshipin.com/5DWJk
 港澳台,#genre#
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰卫视中文台,http://lcx-olt.8866.org:8181/tsfile/live/1070_1.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰卫视资讯台,http://lcx-olt.8866.org:8181/tsfile/live/1069_1.m3u8
+凤凰卫视香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 好莱坞电影,http://120.84.96.138:808/hls/24/index.m3u8
 J2,http://r.jdshipin.com/Nr5jq
 明珠台,http://r.jdshipin.com/ZQ4kN
