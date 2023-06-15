@@ -107,6 +107,7 @@ CCTV卫生健康,http://58.205.220.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1754361598_-5049344/ott.mobaibox.com/PLTV/3/224/3221227492/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw348498084_-2063977587/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+青海卫视,http://222.85.207.79:9901/hls/43/index.m3u8
 天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2054105140_1242406049/ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8?icpid=3&RTS=1674386464&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1674386464&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
@@ -116,6 +117,7 @@ CCTV卫生健康,http://58.205.220.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw844466330_-452871666/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1674380959&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 内蒙古卫视,http://lu1.cc/itv/nmtv/nmxl.php?id=nmws
+宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 西藏卫视,http://lu1.cc/itv/xztv/xzxl.php?id=xzws
 iHOT,#genre#
 爱电竞,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
