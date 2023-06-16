@@ -201,18 +201,11 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰卫视资讯台,http://113.117.74.21:8081/hls/36/index.m3u8
 凤凰卫视香港台,http://113.117.74.21:8081/hls/38/index.m3u8
 好莱坞电影,http://120.84.96.138:808/hls/24/index.m3u8
-J2,https://pull-l3-cny.douyincdn.com/live/4583776f80dca440bfe74c15961733ca.m3u8
-ViuTV,https://pull-l3-cny.douyincdn.com/live/0b15f55f96961ba73662d6b5b5065379.m3u8
-ViuTV Six,https://pull-l3-cny.douyincdn.com/live/171cf2c91f03d4346bec477db1203e77.m3u8
-HOY TV,https://pull-l3-cny.douyincdn.com/live/1b9c41fb3a26597a0a09fd5e6df44e06.m3u8
-HOY资讯台,https://pull-l3-cny.douyincdn.com/live/2e2b6417ed864815929b61302c5a0d6e.m3u8
-RHK31,https://pull-l3-cny.douyincdn.com/live/1226614f4b4c4ea664f30f9b782349b6.m3u8
-RHK32,https://pull-l3-cny.douyincdn.com/live/14948b5d0ed8b9dca2306c2217c53e72.m3u8
-明珠台,https://pull-l3-cny.douyincdn.com/live/4073b75e8c3dfa654fc76cde78908b8f.m3u8
-翡翠台,http://113.117.74.21:8081/hls/67/index.m3u8
+TVB明珠台,https://pull-l3-cny.douyincdn.com/live/eb018c37653afea1e2de92f6b15e8365.m3u8
+TVB翡翠台,http://113.117.74.21:8081/hls/67/index.m3u8
+TVB星河台,http://113.117.74.21:8081/hls/135/index.m3u8
 TVBS,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf003ac.m3u8
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68594525-2565-4103-8454-49840ad768c0.m3u8
-TVB星河,http://113.117.74.21:8081/hls/135/index.m3u8
 民视HD,http://120.84.96.138:808/hls/34/index.m3u8
 东森电影,http://120.84.96.138:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.138:808/hls/33/index.m3u8
