@@ -186,10 +186,6 @@ CHC家庭影院,http://222.243.24.141:9901/tsfile/live/1027_1.m3u8?key_8==D
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw560834707_747490476/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
@@ -198,8 +194,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 纪实人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2056461541_1405788434/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-4K超高清电影,http://r.jdshipin.com/5DWJk
 港澳台,#genre#
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视中文台,http://113.117.74.21:8081/hls/37/index.m3u8
@@ -207,9 +201,17 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰卫视资讯台,http://113.117.74.21:8081/hls/36/index.m3u8
 凤凰卫视香港台,http://113.117.74.21:8081/hls/38/index.m3u8
 好莱坞电影,http://120.84.96.138:808/hls/24/index.m3u8
-J2,http://r.jdshipin.com/Nr5jq
-明珠台,http://r.jdshipin.com/ZQ4kN
+J2,https://pull-l3-cny.douyincdn.com/live/4583776f80dca440bfe74c15961733ca.m3u8
+ViuTV,https://pull-l3-cny.douyincdn.com/live/0b15f55f96961ba73662d6b5b5065379.m3u8
+ViuTV Six,https://pull-l3-cny.douyincdn.com/live/171cf2c91f03d4346bec477db1203e77.m3u8
+HOY TV,https://pull-l3-cny.douyincdn.com/live/1b9c41fb3a26597a0a09fd5e6df44e06.m3u8
+HOY资讯台,https://pull-l3-cny.douyincdn.com/live/2e2b6417ed864815929b61302c5a0d6e.m3u8
+RHK31,https://pull-l3-cny.douyincdn.com/live/1226614f4b4c4ea664f30f9b782349b6.m3u8
+RHK32,https://pull-l3-cny.douyincdn.com/live/14948b5d0ed8b9dca2306c2217c53e72.m3u8
+明珠台,https://pull-l3-cny.douyincdn.com/live/4073b75e8c3dfa654fc76cde78908b8f.m3u8
 翡翠台,http://113.117.74.21:8081/hls/67/index.m3u8
+TVBS,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf003ac.m3u8
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68594525-2565-4103-8454-49840ad768c0.m3u8
 TVB星河,http://113.117.74.21:8081/hls/135/index.m3u8
 民视HD,http://120.84.96.138:808/hls/34/index.m3u8
 东森电影,http://120.84.96.138:808/hls/32/index.m3u8
