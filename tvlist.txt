@@ -116,7 +116,7 @@ CCTV卫生健康,http://58.205.220.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw844466330_-452871666/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1674380959&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-内蒙古卫视,http://lu1.cc/itv/nmtv/nmxl.php?id=nmws
+内蒙古卫视,https://live9.m2oplus.nmtv.cn/00/playlist.m3u8?sign=c7eb1c94a98ef873de51cde03b463687&t=1687186826
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 西藏卫视,http://lu1.cc/itv/xztv/xzxl.php?id=xzws
 iHOT,#genre#
