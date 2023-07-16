@@ -1,72 +1,63 @@
 {
   "sites": [
     {
-      "key": "csp_77",
-      "name": "👒酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_77"，
+      "name": "👒酷云七七"，
+      "type": 3，
+      "api": "csp_Kunyu77"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "小苹果",
-      "name": "🍎小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_Czsapp"，
+      "name": "🏭厂长"，
+      "type": 3，
+      "api": "csp_Czsapp"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "csp_Czsapp",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "📺低端",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_DiDuan"，
+      "name": "📺低端"，
+      "type": 3，
+      "api": "csp_Ddrk"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 0
-    },
+    }，
     {
-      "key": "csp_Lib",
-      "name": "🔷LibVio",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "key": "csp_Lib"，
+      "name": "🔷LibVio"，
+      "type": 3，
+      "api": "csp_Libvio"，
+      "searchable": 1，
+      "quickSearch": 1，
+      "filterable": 1，
       "ext": "https://tv.libvio.cc/"
-    },
+    }，
     {
-      "key": "快看",
-      "name": "👀快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "快看"，
+      "name": "👀快看"，
+      "type": 3，
+      "api": "csp_Kuaikan"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "360",
-      "name": "💘360影视",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "360"，
+      "name": "💘360影视"，
+      "type": 3，
+      "api": "csp_SP33"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "csp_YQKAPP",
-      "name": "🌎一起看",
+      "key": "csp_YQKAPP"，
+      "name": "🌎一起看"，
       "type": 3,
       "api": "csp_YQKAPP",
       "searchable": 1,
